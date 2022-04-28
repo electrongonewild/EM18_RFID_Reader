@@ -15,7 +15,7 @@ Here is direct link for same.<br>
 ## Prerequisites
 * [Realterm](https://realterm.sourceforge.io/index.html#downloads_Download) or any other serial terminal
 * USB to TTL (CP2102)
-* ESP8266 EVB
+* EM18 RFID Reader Module
 * Jumpers
 * Basic knowledge of UART and serial communication
 ## Connections
