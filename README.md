@@ -10,7 +10,7 @@ RFID reader is a device used to gather information from an RFID tag which can fu
 * [Contributions](README.md#contributions)
 ## Documentation
 It is highly recommended to go through the Documentation first.<br>
-Here are direct links for same.<br>
+Here is direct link for same.<br>
 * [Datasheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiAnsWJnbb3AhWLIbcAHYoWCMMQFnoECAUQAQ&url=https%3A%2F%2Fcomponents101.com%2Fsites%2Fdefault%2Ffiles%2Fcomponent_datasheet%2FEM18%2520RFID%2520Reader%2520Datasheet.pdf&usg=AOvVaw1-NdYUcDfC8h57j6CnI9kd) 
 ## Prerequisites
 * [Realterm](https://realterm.sourceforge.io/index.html#downloads_Download) or any other serial terminal
