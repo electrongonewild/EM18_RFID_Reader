@@ -20,9 +20,9 @@ Here is direct link for same.<br>
 * Basic knowledge of UART and serial communication
 ## Connections
 ![Alt text](Images/SCHEMATIC_ESP8266_2022_03_26.png?raw=true "Title")
-* Rx(ESP8266) ---> Tx(USB to TTL)
-* Tx(ESP8266) ---> Rx(USB to TTL)
-* Power Supply (5V/3.3V and GND)
+* Tx(EM18 RFID Card Reader) ---> Rx(USB to TTL)
+* Power Supply (5V and GND)
+* SEL pin ---> 5V
 ## Getting Started
 Follow the steps for getting started:
 * Connect the USB to TTL(CP2102) to USB port of PC and open device manager to check the port connected to serial bridge (USB to TTL).<br>
