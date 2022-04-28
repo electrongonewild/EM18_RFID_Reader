@@ -20,7 +20,7 @@ Here is direct link for same.<br>
 * Jumpers
 * Basic knowledge of UART and serial communication
 ## Connections
-![Alt text](Images/SCHEMATIC_ESP8266_2022_03_26.png?raw=true "Title")
+![Alt text](Images/EM18CircuitDiag.PNG?raw=true "Title")
 * Tx(EM18 RFID Reader) ---> Rx(USB to TTL)
 * Power Supply (5V and GND)
 * SEL pin ---> 5V
