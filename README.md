@@ -30,7 +30,7 @@ Follow the steps for getting started:
 ![Alt text](Images/deviceManager.png?raw=true "Title")
 * Open Realterm or any other serial terminal you want to use.
 * Open the port to which your serial device is connected make sure to check serial configuration as follows:<br>
-    Baudrate : 115200<br>
+    Baudrate : 9600<br>
     Data Bits : 8<br>
     Parity : None<br>
     Stopbits : 1<br> 
