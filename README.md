@@ -1,7 +1,6 @@
 # EM18 RFID Reader
-The ESP8266 Wi-Fi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your Wi-Fi network. <br>
-It can act both as a ```Access Point``` (can create hotspot) or as a ```Station``` (can connect to Wi-Fi) depending on the application, hence it can easily fetch and upload data it to the internet.<br>
-Okay! Now let’s see how to connect a Wi-Fi module to USB to TTL(CP2102)!
+```RFID(Radio Frequency Identification)``` is a form of wireless communication that incorporates the use of electromagnetic coupling in the radio frequency portion.<br>
+RFID reader is a device used to gather information from an RFID tag which can further used for various apllications which include e-payment, e-toll road pricing, e-ticketing for events/public transport, access control, authentication.<br>
 ## Table of Contents
 * [Documentation](README.md#documentation)
 * [Prerequisites](README.md#prerequisites)
