@@ -1,6 +1,7 @@
 # EM18 RFID Reader
 ```RFID(Radio Frequency Identification)``` is a form of wireless communication that incorporates the use of electromagnetic coupling in the radio frequency portion.<br>
 RFID reader is a device used to gather information from an RFID tag which can further used for various apllications which include e-payment, e-toll road pricing, e-ticketing for events/public transport, access control, authentication.<br>
+Okay! Now let’s see how to read RFID tag using EM18 RFID reader and USB to TTL(CP2102)!
 ## Table of Contents
 * [Documentation](README.md#documentation)
 * [Prerequisites](README.md#prerequisites)
@@ -20,7 +21,7 @@ Here is direct link for same.<br>
 * Basic knowledge of UART and serial communication
 ## Connections
 ![Alt text](Images/SCHEMATIC_ESP8266_2022_03_26.png?raw=true "Title")
-* Tx(EM18 RFID Card Reader) ---> Rx(USB to TTL)
+* Tx(EM18 RFID Reader) ---> Rx(USB to TTL)
 * Power Supply (5V and GND)
 * SEL pin ---> 5V
 ## Getting Started
