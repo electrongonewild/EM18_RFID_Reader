@@ -21,6 +21,7 @@ Here is direct link for same.<br>
 * Basic knowledge of UART and serial communication
 ## Connections
 ![Alt text](Images/EM18CircuitDiag.PNG?raw=true "Title")
+(Application Circuit referred from EM18 RFID reader [Datasheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiAnsWJnbb3AhWLIbcAHYoWCMMQFnoECAUQAQ&url=https%3A%2F%2Fcomponents101.com%2Fsites%2Fdefault%2Ffiles%2Fcomponent_datasheet%2FEM18%2520RFID%2520Reader%2520Datasheet.pdf&usg=AOvVaw1-NdYUcDfC8h57j6CnI9kd))
 * Tx(EM18 RFID Reader) ---> Rx(USB to TTL)
 * Power Supply (5V and GND)
 * SEL pin ---> 5V
