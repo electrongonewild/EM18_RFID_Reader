@@ -36,9 +36,7 @@ Follow the steps for getting started:
     Parity : None<br>
     Stopbits : 1<br> 
 ![Alt text](Images/serialConfig.PNG?raw=true "Title")
-* That's it!!! Now you can send AT commands using realterm directly to Wi-Fi Module and also receive its response.
-* Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and configurations are fine.
-* Now you can further proceed to other AT commands according to your application.
+* That's it!!! Now you can tap RFID tag and see it on realterm directly.
 ## Implementation
 ![Alt text](Images/RFID.png?raw=true "Title")
 ## Contributions
