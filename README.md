@@ -40,7 +40,7 @@ Follow the steps for getting started:
 * Firstly check whether you receive ```OK``` in response to ```AT\r\n```, to make sure that your connections and configurations are fine.
 * Now you can further proceed to other AT commands according to your application.
 ## Implementation
-![Alt text](Images/wifiSerial.PNG?raw=true "Title")
+![Alt text](Images/RFID.png?raw=true "Title")
 ## Contributions
 For reporting any ```technical issue``` or proposing ```new feature```, please create new [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
